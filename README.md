@@ -1,5 +1,5 @@
 
 ## Tables
 
-- [oidc-node-provider](./oidc-node-provider/index.md)
+- [oidc-node-provider](0x01.md)
 
